@@ -6,4 +6,4 @@ The program simulates a series of summer chores by waiting a certain amount of t
 A random number is generated to determine if the chores will be complete or not.
 
 ## Instructions/Usage
-Live Server can be used to open the program, at which point the JavaScript will run automatically and can be checked by viewing the console.
+Live Server can be used to open the program, and a version of the doSummerChores function using callbacks or promises can be chosen by clicking one of the available buttons. The output will be logged to the console.
